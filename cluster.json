@@ -1,3 +1,5 @@
-"cluster_spec": {
-    "existing_cluster_id": "1201-my-cluster"
-  }
+{
+  "spark_version": "5.0.x-scala2.11",
+  "num_workers": 2,
+  "node_type_id": "m4.large"
+}
